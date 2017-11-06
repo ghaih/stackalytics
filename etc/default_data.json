@@ -31958,6 +31958,10 @@
             "uri": "github://"
         },
         {
+            "organization": "cloudfoundry-incubator",
+            "uri": "github://"
+        },
+        {
             "organization": "kubernetes",
             "module_group_id": "kubernetes-group",
             "uri": "github://"
@@ -32442,7 +32446,7 @@
             "id": "cloudfoundry-group",
             "title": "Cloud Foundry",
             "child": true,
-            "modules": ["cloudfoundry"]
+            "modules": ["cloudfoundry","cloudfoundry-incubator"]
         },
         {
             "id": "docker-group",
